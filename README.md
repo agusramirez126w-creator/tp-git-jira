@@ -16,3 +16,5 @@ Proyecto realizado con GitHub, Git y Jira para analizar ventas.
 
 # Ejecución
 Ejecutar el archivo analisis.py
+## Comentario
+Proyecto desarrollado utilizando GitHub y Jira.
